@@ -4,6 +4,11 @@ const users = [
     pic: "https://images.unsplash.com/photo-1763688496557-46d22a1fbe47?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8",
     bio: "Success begins when you stay consistent and keep moving forward every single day."
   },
+   {
+    name: "Ahmad Abid",
+    pic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5rHpnEf2jjpr3jrFe2_hA2bjqlUivaVdpLg&s",
+    bio: "Just Focused on you life.Never See Others"
+  },
   {
     name: "Umar Jutt",
     pic: "https://images.unsplash.com/photo-1763688506433-033fc84f6559?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
